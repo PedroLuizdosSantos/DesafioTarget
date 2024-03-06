@@ -1,4 +1,7 @@
 # DesafioTarget
+Questão 1:
+Resposta: 91 (escrevi tmabém nos códigos python)
+
 Questão 3 :
 Descubra a lógica e complete o próximo elemento:
 
