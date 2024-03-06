@@ -1,4 +1,7 @@
 # DesafioTarget
+(As questões 1, 2 e 5 estão respondidas no arquivo main.py)
+
+
 Questão 1:
 Resposta: 91 (escrevi também nos códigos python)
 
