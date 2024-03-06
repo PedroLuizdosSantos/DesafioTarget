@@ -1,5 +1,5 @@
 # DesafioTarget
-(As questões 1, 2 e 5 estão respondidas no arquivo main.py)
+(As questões 1, 2 e 5 estão respondidas no arquivo main.py, utilizei a linguagem python para resolver as mesmas)
 
 
 Questão 1:
